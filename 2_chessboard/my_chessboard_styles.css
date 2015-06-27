@@ -18,3 +18,21 @@ Note that I've included the background image for the page in this folder, "grey.
 Write your CSS rules below.
 
 */
+
+.board{
+	border: thick teal solid;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+
+.rank{
+	color: #FF8C00;
+	font-size: 50px;
+	text-align: center	;
+}
+
+.dark_square{
+	background-color: teal;
+	height: 70px;
+	width: 70px;}
