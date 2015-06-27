@@ -1,0 +1,56 @@
+/* This is here to give everything a red border, just to make it easier to see while developing. */
+* {
+  box-sizing: border-box;
+
+  /*border: thin red solid;*/
+}
+/* You can turn it off if you want. (delete or comment it out) */
+
+/* Write your rules below */
+
+.canvas_section {
+border: thin black solid;
+padding-left: 10px;
+;
+
+
+}
+.sublist{
+	font-style: italic;
+	padding-top: none
+	;
+}
+
+.canvas{width: 100%}
+
+body {
+      font-size: 6pt;
+      font-family: Arial;
+    }
+
+    td {
+      vertical-align: top;
+      
+    }
+
+    ul{
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+    text-align: left; }
+
+    ol{
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: left; }
+
+    h3{margin-bottom: 0px;
+     text-transform: uppercase;}
+
+    h4{margin:0px;}
+
+    p{margin: 0px; }
+
+    input{width: 90%}
+
